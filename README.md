@@ -16,7 +16,7 @@ From time to time I manage to speak at user groups and conferences. Your can see
 
 Some of the open source projects I contributed to:
 
-- [Akka.NET](https://getakka.net/) - over 5 years I was member of core-team, where I helped building a various parts of this distributed actor framework, including:
+- [Akka.NET](https://getakka.net/) - for over 5 years I was member of core-team, where I helped building a various parts of this distributed actor framework, including:
     - [Akka.Streams](https://github.com/akkadotnet/akka.net/pull/1727), which is a reactive streaming library build on top of akka actors, that allows programmers to build a rich dataflow graphs with backpressure support. This also included building a direct API for safe and composable socker server and client as well as [StreamRefs](https://github.com/akkadotnet/akka.net/pull/3321) - surrogate objects used to transport and join Akka.Streams graph nodes over the network, allowing users to build a distributed, backpressured dataflows.
     - [Akka.Persistence](https://github.com/akkadotnet/akka.net/pull/577) which is a plugin, that introduces support to actor state persistence by using eventsourcing techniques. Later on I also introduced Akka.Streams support to it as well as SQL database adapters.
     - [Akka.DistributedData](https://github.com/akkadotnet/akka.net/pull/2261) which introduced a decentralized, replicated in-memory key-value store build into akka cluster, based on Conflict-free Replicated Data Types. Later on it was extended to use optimized [delta-state](https://github.com/akkadotnet/akka.net/pull/2749) CRDTs and [durable storage](https://github.com/akkadotnet/akka.net/pull/2490).
