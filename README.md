@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bartosz Sypytkowski. I'm a passionate distributed & concurrent systems developer, interested in internals, protocol and algorithms driving such systems. You can see some of the recent topics of my interest on my [blog post](https://bartoszsypytkowski.com/). Some of my personal favourites:
+My name is Bartosz Sypytkowski. I'm a passionate data management, distributed & concurrent systems developer, interested in internals, protocol and algorithms driving such systems. You can see some of the recent topics of my interest on my [blog post](https://bartoszsypytkowski.com/). Some of my personal favourites:
 
 - Series of posts introducting to [Conflict-free Replicated Data Types](https://bartoszsypytkowski.com/tag/crdt/).
 - Walkthrough (with implementation) over [SWIM](https://bartoszsypytkowski.com/make-your-cluster-swim/) and [HyParView](https://bartoszsypytkowski.com/hyparview/) cluster membership protocols.
@@ -30,4 +30,4 @@ Some of the open source projects I contributed to:
 - [FSharp.Data.GraphQL](https://fsprojects.github.io/FSharp.Data.GraphQL/) which is Bazinga Inc. sponsored project, where I implemented a server-side part of GraphQL standard specification. Memorable challenge was to implement GraphQL-to-LINQ converter, that was using not only GraphQL query AST, but actually tracked usage of data members in underlying F# code used in field resolvers.
 - [Hyperion](https://github.com/akkadotnet/Hyperion) which is a very efficient binary serializer, aiming to provide a wide features support eg. serialization of object graphs with cycles, serialization of expressions and delegates, version tolerance.
 - A growing collection of various [Conflict-free Replicated Data Types](https://github.com/Horusiath/crdt-examples), including state-, delta-state and operation-based ones (with example replication protocol support).
-- [A F# utility library](https://github.com/horusiath/fsharp.core.extensions), with various extensions like high performance persistent vectors, hybrid-logical clocks, set of operators over IAsyncEnumerable interaface or high performance actor implementation.
+- [A F# utility library](https://github.com/horusiath/fsharp.core.extensions), with various extensions like high performance persistent vectors, hybrid-logical clocks, reentrant user-space read/write locks, set of operators over IAsyncEnumerable interaface or high performance actor implementation.
