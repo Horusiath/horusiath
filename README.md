@@ -10,7 +10,7 @@ My name is Bartosz Sypytkowski. I'm a passionate about data management, distribu
 
 While I look at the platform/runtime as a tool to achieve the goal, my personal weapons of choice include: Rust (which I had pleasure to work with when implementing JSON-like CRDT document database at [ditto.live](https://ditto.live)), Scala, F#, Go.
 
-From time to time I manage to speak at user groups and conferences. Your can see some of my presentations on youtube and [slideshare](https://www.slideshare.net/BartoszSypytkowski1/presentations). 
+From time to time I manage to speak at user groups and conferences. Your can see some of my presentations on youtube and [slideshare](https://www.slideshare.net/BartoszSypytkowski1/presentations). Feel free to contact me (you can see e-email in my github profile). 
 
 ### Hall of fame
 
