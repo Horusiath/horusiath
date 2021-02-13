@@ -7,6 +7,7 @@ My name is Bartosz Sypytkowski. I'm a passionate about data management, distribu
 - [Post](https://bartoszsypytkowski.com/building-custom-fibers-library-in-f/) about tradeoffs and building custom user-space threads in F#.
 - [How to build custom thread-per-core thread pool](https://bartoszsypytkowski.com/thread-safety-with-affine-thread-pools/).
 - [How to build custom actor library](https://bartoszsypytkowski.com/build-your-own-actor-model/).
+- A bunch of tips related to [CPU/memory optimization](https://bartoszsypytkowski.com/writing-high-performance-f-code/) of .NET programs from F# developer point of view.
 
 While I look at the platform/runtime as a tool to achieve the goal, my personal weapons of choice include: Rust (which I had pleasure to work with when implementing JSON-like CRDT document database at [ditto.live](https://ditto.live)), Scala, F#, Go.
 
