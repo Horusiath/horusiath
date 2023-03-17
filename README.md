@@ -3,7 +3,7 @@
 My name is Bartosz Sypytkowski. I'm a passionate about data management, distributed & concurrent systems, their internals, protocols and algorithms driving them. You can see some of the recent topics of my interest on my [blog post](https://bartoszsypytkowski.com/). Some of my personal favourites:
 
 - Series of posts introducting to [Conflict-free Replicated Data Types](https://bartoszsypytkowski.com/tag/crdt/).
-- Walkthrough (with implementation) over [SWIM](https://bartoszsypytkowski.com/make-your-cluster-swim/) and [HyParView](https://bartoszsypytkowski.com/hyparview/) cluster membership protocols.
+- Walkthrough (with implementation) over [SWIM](https://bartoszsypytkowski.com/make-your-cluster-swim/) and [HyParView](https://bartoszsypytkowski.com/hyparview/) cluster membership protocols. Latter one has also been extended via [Plumtree protocol description](https://www.bartoszsypytkowski.com/plumtree/).
 - [Post](https://bartoszsypytkowski.com/building-custom-fibers-library-in-f/) about tradeoffs and building custom user-space threads in F#.
 - [How to build custom thread-per-core thread pool](https://bartoszsypytkowski.com/thread-safety-with-affine-thread-pools/).
 - [How to build custom actor library](https://bartoszsypytkowski.com/build-your-own-actor-model/).
