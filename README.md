@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Bartosz Sypytkowski. I'm a passionate about data management, distributed & concurrent systems, their internals, protocols and algorithms driving them. You can see some of the recent topics of my interest on my [blog post](https://bartoszsypytkowski.com/). Some of my personal favourites:
+My name is Bartosz Sypytkowski. I'm one of the core team members behind [Yjs](https://yjs.dev)/[Yrs](https://docs.rs/yrs/latest/yrs/) ecosystem. If you need help with them (or have any other problems in Conflict-free Replicated Data Types domain), I'm available as a contractor. Feel free to DM me at Twitter or via email.
+
+
+I'm a passionate about data management, distributed & concurrent systems, their internals, protocols and algorithms driving them. You can see some of the recent topics of my interest on my [blog post](https://bartoszsypytkowski.com/). Some of my personal favourites:
 
 - Series of posts introducting to [Conflict-free Replicated Data Types](https://bartoszsypytkowski.com/tag/crdt/).
 - Walkthrough (with implementation) over [SWIM](https://bartoszsypytkowski.com/make-your-cluster-swim/) and [HyParView](https://bartoszsypytkowski.com/hyparview/) cluster membership protocols. Latter one has also been extended via [Plumtree protocol description](https://www.bartoszsypytkowski.com/plumtree/).
