@@ -13,6 +13,7 @@ I'm a passionate about data management, distributed & concurrent systems, their 
 - A bunch of tips related to [CPU/memory optimization](https://bartoszsypytkowski.com/writing-high-performance-f-code/) of .NET programs from F# developer point of view.
 - How to build [async-aware Read/Write lock](https://bartoszsypytkowski.com/async-rwlock/) operating in user space over .NET green thread model (Tasks).
 - How to build [Range tries](https://bartoszsypytkowski.com/r-tree/): data structures used for efficient indexing of multi-dimensional data.
+- Details on how [live backups and point-in-time recovery](https://www.bartoszsypytkowski.com/db-backup-point-in-time-recovery/) are performed by databases.
 
 While I look at the platform/runtime as a tool to achieve the goal, my personal weapons of choice include: Rust (which I had pleasure to work with when implementing JSON-like CRDT document database at [ditto.live](https://ditto.live)), Scala, F#, Go.
 
